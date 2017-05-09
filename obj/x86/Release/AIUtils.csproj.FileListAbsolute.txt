@@ -1,0 +1,16 @@
+C:\Users\Djori\Documents\projects\AIUtils\bin\x86\Release\AIUtils.dll
+C:\Users\Djori\Documents\projects\AIUtils\bin\x86\Release\AIUtils.pdb
+C:\Users\Djori\Documents\projects\AIUtils\bin\x86\Release\AIUtils.pri
+C:\Users\Djori\Documents\projects\AIUtils\obj\x86\Release\AIUtils.dll
+C:\Users\Djori\Documents\projects\AIUtils\obj\x86\Release\AIUtils.pdb
+C:\Users\Djori\Documents\projects\AIUtils\obj\x86\Release\priconfig.xml
+C:\Users\Djori\Documents\projects\AIUtils\obj\x86\Release\priconfig.xml.intermediate
+C:\Users\Djori\Documents\projects\AIUtils\obj\x86\Release\layout.resfiles
+C:\Users\Djori\Documents\projects\AIUtils\obj\x86\Release\layout.resfiles.intermediate
+C:\Users\Djori\Documents\projects\AIUtils\obj\x86\Release\resources.resfiles
+C:\Users\Djori\Documents\projects\AIUtils\obj\x86\Release\resources.resfiles.intermediate
+C:\Users\Djori\Documents\projects\AIUtils\obj\x86\Release\pri.resfiles
+C:\Users\Djori\Documents\projects\AIUtils\obj\x86\Release\pri.resfiles.intermediate
+C:\Users\Djori\Documents\projects\AIUtils\obj\x86\Release\qualifiers.txt
+C:\Users\Djori\Documents\projects\AIUtils\obj\x86\Release\qualifiers.txt.intermediate
+C:\Users\Djori\Documents\projects\AIUtils\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
