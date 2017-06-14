@@ -39,6 +39,15 @@ namespace AIUtils {
             this.OnCollectionChanged(new NotifyCollectionChangedEventArgs(NotifyCollectionChangedAction.Reset));
         }
 
+        public void RemoveRange(IEnumerable<T> range) {
+            foreach(T item in range) {
+                Items.Remove(item);
+            }
+            this.OnPropertyChanged(new PropertyChangedEventArgs("Count"));
+            this.OnPropertyChanged(new PropertyChangedEventArgs("Item[]"));
+            this.OnCollectionChanged(new NotifyCollectionChangedEventArgs(NotifyCollectionChangedAction.Reset));
+        }
+
 
         public void ResetWith(IEnumerable<T> range) {
             this._sourceItems.Clear();
