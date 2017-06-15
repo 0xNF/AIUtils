@@ -8,13 +8,13 @@ namespace AIUtils {
 
     public static class StringExtensions {
 
-        public static string BracketedSubstring(this string message, string startString, string stopString) {
-            int start = message.IndexOf(startString);
+        public static string BracketedSubstring(this string self, string startString, string stopString) {
+            int start = self.IndexOf(startString);
             start += startString.Length;
 
-            int end = message.IndexOf(stopString, start);
+            int end = self.IndexOf(stopString, start);
             int sublen = end - start;
-            string m = message.Substring(start, sublen);
+            string m = self.Substring(start, sublen);
             return m;
         }
 
