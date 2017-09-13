@@ -17,6 +17,8 @@ C:\Users\Djori\Documents\projects\ClassifySpotify\AIUtils\obj\x86\Debug\Multiple
 C:\Users\Djori\Documents\projects\AIUtils\bin\x86\Debug\AIUtils.dll
 C:\Users\Djori\Documents\projects\AIUtils\bin\x86\Debug\AIUtils.pdb
 C:\Users\Djori\Documents\projects\AIUtils\bin\x86\Debug\AIUtils.pri
+C:\Users\Djori\Documents\projects\AIUtils\obj\x86\Debug\AIUtils.csprojResolveAssemblyReference.cache
+C:\Users\Djori\Documents\projects\AIUtils\obj\x86\Debug\AIUtils.csproj.CoreCompileInputs.cache
 C:\Users\Djori\Documents\projects\AIUtils\obj\x86\Debug\AIUtils.dll
 C:\Users\Djori\Documents\projects\AIUtils\obj\x86\Debug\AIUtils.pdb
 C:\Users\Djori\Documents\projects\AIUtils\obj\x86\Debug\priconfig.xml

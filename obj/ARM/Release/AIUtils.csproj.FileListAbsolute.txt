@@ -14,3 +14,4 @@ C:\Users\Djori\Documents\projects\AIUtils\obj\ARM\Release\pri.resfiles.intermedi
 C:\Users\Djori\Documents\projects\AIUtils\obj\ARM\Release\qualifiers.txt
 C:\Users\Djori\Documents\projects\AIUtils\obj\ARM\Release\qualifiers.txt.intermediate
 C:\Users\Djori\Documents\projects\AIUtils\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Djori\Documents\projects\AIUtils\obj\ARM\Release\AIUtils.csprojResolveAssemblyReference.cache

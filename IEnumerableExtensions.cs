@@ -7,12 +7,13 @@ using System.Threading.Tasks;
 namespace AIUtils {
     public static class IEnumerableExtensions {
 
-        public static IEnumerable<T> Flatten<T>(this IEnumerable<IEnumerable<T>> list) {
+        public static IEnumerable<T> Flatten<T>(this IEnumerable<IEnumerable<T>> list) {w
             List<T> flat = new List<T>();
             foreach(IEnumerable<T> sublist in list) {
                 flat.AddRange(sublist);
             }
             return flat;
         }
+
     }
 }

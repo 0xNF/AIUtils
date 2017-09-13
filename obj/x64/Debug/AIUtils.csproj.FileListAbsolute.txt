@@ -30,3 +30,4 @@ C:\Users\Djori\Documents\projects\AIUtils\obj\x64\Debug\pri.resfiles.intermediat
 C:\Users\Djori\Documents\projects\AIUtils\obj\x64\Debug\qualifiers.txt
 C:\Users\Djori\Documents\projects\AIUtils\obj\x64\Debug\qualifiers.txt.intermediate
 C:\Users\Djori\Documents\projects\AIUtils\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Djori\Documents\projects\AIUtils\obj\x64\Debug\AIUtils.csprojResolveAssemblyReference.cache
