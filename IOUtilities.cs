@@ -257,7 +257,7 @@ namespace AIUtils {
         /// </summary>
         /// <param name="s"></param>
         /// <returns></returns>
-        public static Windows.Storage.Streams.UnicodeEncoding GetUniodeEncoding(System.IO.Stream s) {
+        public static Windows.Storage.Streams.UnicodeEncoding GetUniodeEncoding(Stream s) {
             UnicodeEncoding e = TryDetectUnicodeEncoding(s);
             if(e == Encoding.Unicode) {
                 return Windows.Storage.Streams.UnicodeEncoding.Utf16LE;

@@ -26223,11 +26223,8 @@
       }
     },
     "dependencies": {
-      "Newtonsoft.Json": "10.0.3",
-      "Microsoft.NETCore.UniversalWindowsPlatform": {
-        "target": "Package",
-        "version": "[5.4.0, )"
-      }
+      "Microsoft.NETCore.UniversalWindowsPlatform": "5.4.0",
+      "Newtonsoft.Json": "10.0.3"
     },
     "frameworks": {
       "uap10.0.10240": {}
